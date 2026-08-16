@@ -1,0 +1,9 @@
+server:
+  port: 8070
+
+spring:
+  application:
+    name: reference-data-service
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
