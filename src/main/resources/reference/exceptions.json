@@ -1,0 +1,8 @@
+[
+  { "code": "EXC-LTV",        "name": "Loan-to-value above policy",         "category": "CREDIT",        "severity": "HIGH" },
+  { "code": "EXC-DSCR",       "name": "Debt service coverage below policy", "category": "CREDIT",        "severity": "HIGH" },
+  { "code": "EXC-DOC",        "name": "Missing financial statements",       "category": "DOCUMENTATION", "severity": "MEDIUM" },
+  { "code": "EXC-TENURE",     "name": "Business tenure under 2 years",      "category": "CREDIT",        "severity": "MEDIUM" },
+  { "code": "EXC-COLLATERAL", "name": "Collateral shortfall",               "category": "SECURITY",      "severity": "HIGH" },
+  { "code": "EXC-KYC",        "name": "KYC refresh overdue",                "category": "COMPLIANCE",    "severity": "LOW" }
+]
